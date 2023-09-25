@@ -7,7 +7,7 @@
       "dependencies": {
         "com.unity.entities": "1.0.0-pre.65"
       },
-      "hash": "eda6a6b8e91f05e0fecc63f2372a84f5dafc52a6"
+      "hash": "bebfcda8ba383ab74db4043834602083ccd95e3c"
     },
     "com.tonymax.nsprites.foundation": {
       "version": "git@github.com:meditatingsloth/NSprites-Foundation.git",
